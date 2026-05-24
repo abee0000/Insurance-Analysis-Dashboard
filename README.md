@@ -53,11 +53,5 @@ The system integrates data cleaning, SQL-based KPI generation, and dashboard vis
 - Policy renewal tracking
 - Executive and management dashboards
 
-## ⚠️ Challenges Faced
-- Handling duplicate and missing values
-- Managing large datasets
-- SQL Server connectivity and integration
-- Data relationship modeling across multiple tables
-
 ## ✅ Outcome
 The project successfully delivers a unified Insurance Analytics solution combining SQL, Excel, Tableau, and Power BI to generate business-ready dashboards and KPIs. The system enables better decision-making by providing clear insights into policy management, customer behavior, claims performance, and revenue growth.
