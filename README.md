@@ -1,4 +1,4 @@
-# Insurance Analytics Dashboard 📊🏦
+# Insurance Analytics Dashboard 📊
 
 An end-to-end Insurance Analytics solution developed to transform raw insurance data into actionable insights using SQL, Excel, Tableau, and Power BI. The project focuses on analyzing policy, customer, claims, and payment data to generate business KPIs and interactive dashboards for management reporting and decision-making.
 
